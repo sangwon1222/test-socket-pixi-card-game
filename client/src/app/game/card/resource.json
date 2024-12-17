@@ -1,0 +1,33 @@
+{
+  "common":{
+    "img":[
+      "bg-1.png",
+      "proto-character.png"
+    ]
+  },
+  "card":{
+    "img":[
+      "ac_acp_bg.png",
+
+      "ac_electric.png",
+      "ac_fire.png",
+      "ac_plant.png",
+      "ac_water.png",
+      "ac_wind.png",
+      "ac_defence.png",
+      "ac_heal.png",
+
+      "small_ac_electric.png",
+      "small_ac_fire.png",
+      "small_ac_plant.png",
+      "small_ac_water.png",
+      "small_ac_wind.png",
+      "small_ac_defence.png",
+
+      
+      "ac_num.png",
+      "ac_num_example.png"
+    ]
+  }
+}
+
